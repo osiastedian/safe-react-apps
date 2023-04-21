@@ -2,7 +2,7 @@
   "name": "tx-builder",
   "version": "1.14.0",
   "private": true,
-  "homepage": "/tx-builder",
+  "homepage": "/",
   "dependencies": {
     "@gnosis.pm/safe-deployments": "^1.19.0",
     "@gnosis.pm/safe-react-components": "1.1.5",
